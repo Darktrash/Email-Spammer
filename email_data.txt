@@ -1,0 +1,4 @@
+lolkek1@rambler.ru:password1
+lolkek2@rambler.ru:password2
+lolkek3@rambler.ru:password3
+...
